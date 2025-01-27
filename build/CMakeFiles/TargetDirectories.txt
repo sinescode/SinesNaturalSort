@@ -1,0 +1,7 @@
+/root/manhwa/sinesnaturalsort/build/CMakeFiles/SinesNaturalsort.dir
+/root/manhwa/sinesnaturalsort/build/CMakeFiles/edit_cache.dir
+/root/manhwa/sinesnaturalsort/build/CMakeFiles/rebuild_cache.dir
+/root/manhwa/sinesnaturalsort/build/CMakeFiles/list_install_components.dir
+/root/manhwa/sinesnaturalsort/build/CMakeFiles/install.dir
+/root/manhwa/sinesnaturalsort/build/CMakeFiles/install/local.dir
+/root/manhwa/sinesnaturalsort/build/CMakeFiles/install/strip.dir

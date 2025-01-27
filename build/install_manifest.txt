@@ -1,0 +1,5 @@
+/usr/local/include/sinesnaturalsort.hpp
+/usr/local/lib/libSinesNaturalsort.a
+/usr/local/lib/libSinesNaturalsort.a
+/usr/local/lib/cmake/SinesNaturalsort/SinesNaturalsortConfig.cmake
+/usr/local/lib/cmake/SinesNaturalsort/SinesNaturalsortConfig-noconfig.cmake
