@@ -5,7 +5,7 @@ project(SinesNaturalsort VERSION 1.0)
 
 # Create a static library from the source files
 add_library(SinesNaturalsort STATIC
-    sinesnaturalsort.cpp
+    SinesNaturalSort.cpp
 )
 
 # Specify include directories for the library
@@ -21,7 +21,7 @@ target_compile_features(SinesNaturalsort PUBLIC cxx_std_17)
 include(GNUInstallDirs)
 
 # Install the header files to the default include directory
-install(FILES sinesnaturalsort.hpp
+install(FILES SinesNaturalSort.h
     DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}
 )
 
