@@ -1,5 +1,4 @@
 
-```markdown
 # SinesNaturalSort
 
 A C++ library for sorting links and strings with chapter numbers, designed to properly order content with numeric chapters. The library ensures links containing chapter numbers are sorted in a logical way (e.g., "chapter 2" comes before "chapter 10").
