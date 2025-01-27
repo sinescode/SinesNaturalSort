@@ -1,2 +1,0 @@
-/bin/ar qc libSinesNaturalsort.a CMakeFiles/SinesNaturalsort.dir/sinesnaturalsort.cpp.o
-/bin/ranlib libSinesNaturalsort.a
